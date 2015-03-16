@@ -23,3 +23,11 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 # In either case you'll need to restart Sublime Text for the change to take place.
  
 # Happy coding!
+
+
+
+
+
+
+# I wrote this just to save my configuration of Sublime Text.
+# This code is copied from https://gist.github.com/kconragan/2510186
